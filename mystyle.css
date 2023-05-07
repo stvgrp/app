@@ -7,7 +7,7 @@ body {
 
   background: #FDFDFD;
 }
-img {
+#h {
   /* 顶栏 */
 
   position: absolute;
@@ -20,7 +20,7 @@ img {
 
   background: #F5F5F7;
 }
-img {
+#a {
   /* Power */
 
   position: absolute;
@@ -30,7 +30,7 @@ img {
   height: 99px;
   opacity: 1;
 }
-img {
+#b {
   /* FastCloud */
 
   position: absolute;
@@ -40,5 +40,65 @@ img {
   height: 57.44px;
   opacity: 1;
     
-  background: url(FastCloud.png);
+  background: url(https://fcone.top/fcimage/FastCloud.png);
+}
+#c {
+  /* FCstore */
+
+  position: absolute;
+  left: 829px;
+  top: 29px;
+  width: 69px;
+  height: 65px;
+  opacity: 1;
+    
+  background: url(https://fcone.top/fcimage/FCstore.png);
+}
+#d {
+  /* FCcha */
+
+  position: absolute;
+  left: 1014px;
+  top: 29px;
+  width: 89px;
+  height: 70px;
+  opacity: 1;
+    
+  background: url(https://fcone.top/fcimage/FCcha.png);
+}
+#e {
+  /* FCclean */
+
+  position: absolute;
+  left: 1219px;
+  top: 26px;
+  width: 77px;
+  height: 77px;
+  opacity: 1;
+    
+  background: url(https://fcone.top/fcimage/FCclean.png);
+}
+#f {
+  /* FCweb */
+
+  position: absolute;
+  left: 1430px;
+  top: 32px;
+  width: 99px;
+  height: 70px;
+  opacity: 1;
+    
+  background: url(https://fcone.top/fcimage/FCweb.png);
+}
+#g {
+  /* FCacc */
+
+  position: absolute;
+  left: 1662px;
+  top: 26px;
+  width: 83px;
+  height: 78px;
+  opacity: 1;
+    
+  background: url(https://fcone.top/fcimage/FCacc.png);
 }
