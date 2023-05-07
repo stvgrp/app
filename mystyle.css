@@ -7,11 +7,38 @@ body {
 
   background: #FDFDFD;
 }
-h1 {
-	color:orange;
-	text-align:center;
+img {
+  /* 顶栏 */
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 121px;
+  border-radius: 0px 0px 15px 15px;
+  opacity: 1;
+
+  background: #F5F5F7;
 }
-p {
-	font-family:"Times New Roman";
-	font-size:20px;
+img {
+  /* Power */
+
+  position: absolute;
+  left: 37px;
+  top: 11px;
+  width: 437px;
+  height: 99px;
+  opacity: 1;
+}
+img {
+  /* FastCloud */
+
+  position: absolute;
+  left: 620px;
+  top: 38px;
+  width: 63px;
+  height: 57.44px;
+  opacity: 1;
+    
+  background: url(FastCloud.png);
 }
